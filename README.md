@@ -18,12 +18,6 @@ Run npm install
   npm install
 ```
 
-Run npm install
-
-```bash
-  npm install
-```
-
 Start Server
 
 ```bash
